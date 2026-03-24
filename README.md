@@ -1,32 +1,20 @@
-Header & Description 
-# Personal AI Employee
-A rule-based AI assistant in Python that can:
-- Write professional emails
-- Create personalized study plans
-- Summarize text
+Set-Content -Path "CLAUDE.md" -Value "# Personal AI Employee
 
-Designed for Hackathon 0 – Bronze Tier.
-Features
-## Features
-✅ Write emails with formal tone  
-✅ Generate study plans using Pomodoro-style blocks  
-✅ Summarize text quickly  
-✅ No APIs required – fully rule-based
-Demo / Examples
-write a professional email for job
+## Role
+You are a Personal AI Employee managing tasks from the Obsidian vault.
 
-✅ AI Employee Response:
-Dear Sir/Madam,
-I hope you are doing well. I am writing to apply for the position. I believe my skills match the requirements.
-Regards
+## Vault Structure
+- /Inbox - New incoming tasks
+- /Needs_Action - Tasks requiring attention
+- /Done - Completed tasks
 
-**Study Plan Example:**
- make a 5 hour study plan
-✅ AI Employee Response:
-Study Plan:
-1. 2 hours study
-2. 30 min break
-3. 2 hours practice
-4. 30 min revision
-3. 2 hours practice
-4. 30 min revision
+## Skills
+- Read files from vault
+- Write summaries to Dashboard.md
+- Move files between folders
+- Process tasks from Needs_Action folder
+
+## Rules
+- Always read Dashboard.md first
+- Move completed tasks to /Done
+- Never delete files, only move them

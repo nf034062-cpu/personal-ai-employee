@@ -2,3 +2,12 @@
 2026-03-20 16:19:44,966 - INFO - Moved file: test.md to C:\Users\JUNCTION\Documents\personal ai employee\Needs_Action
 2026-03-20 16:32:00,129 - INFO - Moved file: tesr2.md to C:\Users\JUNCTION\Documents\personal ai employee\Needs_Action
 2026-03-20 16:36:05,119 - INFO - Moved: test3.md
+<<<<<<< HEAD
+=======
+2026-03-20 16:39:15,219 - INFO - Created Needs_Action folder: C:\Users\JUNCTION\Documents\personal ai employee\Needs_Action
+2026-03-22 22:04:02,785 - INFO - Watcher script started. Monitoring Inbox folder...
+2026-03-22 22:05:08,913 - INFO - Watcher script started. Monitoring Inbox folder...
+2026-03-22 22:11:18,966 - INFO - Moved file: task1.md to C:\Users\JUNCTION\Documents\personal ai employee\Needs_Action
+2026-03-22 22:13:18,986 - INFO - Moved file: payment_task.md to C:\Users\JUNCTION\Documents\personal ai employee\Needs_Action
+2026-03-22 22:21:11,335 - INFO - Watcher script started. Monitoring Inbox folder...
+>>>>>>> 7a8d88f
