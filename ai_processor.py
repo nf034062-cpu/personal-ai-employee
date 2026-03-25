@@ -2,7 +2,7 @@ import google.generativeai as genai
 import os
 
 # Use your newest key here
-API_KEY = "AIzaSyC80yWBHk0Ay2MHU35DEmyc2hnBlWKgdXI"
+API_KEY = "AIzaSyDjlEUPGyhLgvQlFTKBQJq04EzNeWMCAUA"
 
 def process_task_with_ai(prompt_text):
     try:
